@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "ES3",
+        "noImplicitAny": true
+    },
+    "include":["src/**/*"]
+}
